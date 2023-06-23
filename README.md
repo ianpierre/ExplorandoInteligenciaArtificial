@@ -31,7 +31,7 @@
 <ul>
   <li><a href="https://example.com/tutorial-chatterbot">Enlace al tutorial de ChatterBot</a></li>
   <li><a href="https://scikit-learn.org/">Documentación de scikit-learn</a></li>
-  <li><a href="https://awesome-nlp.com/">Awesome NLP</a>: Una lista curada de recursos relacionados con el procesamiento del lenguaje natural</li>
+  <li><a href="https://awesome-nlp.com/">Awesome NLP</a>: lista de recursos relacionados con el procesamiento del lenguaje natural</li>
 </ul>
 
 <p>¡Espero que encuentres este repositorio y su contenido interesantes y útiles! Si tienes alguna pregunta o sugerencia, no dudes en compartirlas.</p>
