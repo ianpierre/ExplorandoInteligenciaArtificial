@@ -29,7 +29,7 @@
 <p>Aquí hay algunos recursos adicionales que podrían resultarte útiles al trabajar con chatbots y NLP:</p>
 
 <ul>
-  <li><a href="https://example.com/tutorial-chatterbot">Enlace al tutorial de ChatterBot</a></li>
+  <li><a href="https://chatterbot.readthedocs.io/en/stable/tutorial.html">Enlace al tutorial de ChatterBot</a></li>
   <li><a href="https://scikit-learn.org/">Documentación de scikit-learn</a></li>
   <li><a href="https://awesome-nlp.com/">Awesome NLP</a>: lista de recursos relacionados con el procesamiento del lenguaje natural</li>
 </ul>
